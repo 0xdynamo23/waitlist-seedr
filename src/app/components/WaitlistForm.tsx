@@ -29,7 +29,7 @@ export default function WaitlistForm() {
         setStatus('error');
         setMessage(data.error || 'Something went wrong');
       }
-    } catch (error) {
+    } catch {
       setStatus('error');
       setMessage('Failed to connect to the server');
     }
