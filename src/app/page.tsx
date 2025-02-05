@@ -39,17 +39,17 @@ export default function Home() {
         </div>
         <WaitlistForm />
         <div className="text-sm text-gray-500 pt-12">
-          Join our 
-          <a href="https://discord.gg/WE48A3Hu" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700">
-            <Image src="/Discord.png" alt="Discord" width={16} height={16} className="h-4 inline-block mx-1" /> Discord
-          </a> 
+          Join our{' '}
+          <a href="https://discord.gg/WE48A3Hu" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700 underline">
+            <Image src="/Discord.png" alt="Discord" width={21} height={16} className="h-4 inline-block mx-1" /> Discord
+          </a>{' '}
           and stay connected.
         </div>
 
         <div className="text-sm text-gray-500 pt-4 absolute bottom-16 flex w-full left-0 items-center justify-center gap-2">
           Made with <span className="text-green-500">💚</span> by 
-          <Image src="/Cyro.png" alt="Cyro Studios" width={16} height={16} className="h-4 inline-block" /> 
-          <a href="https://x.com/cyro_studios" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700">Cyro Studios</a>
+          <Image src="/Cyro.png" alt="Cyro Studios" width={14} height={14} className="h-4 inline-block mx-1" /> 
+          <a href="https://x.com/cyro_studios" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700 mx-1">Cyro Studios</a>
         </div>
       </div>
     </main>
