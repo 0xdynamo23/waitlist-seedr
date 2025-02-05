@@ -25,8 +25,8 @@ export default function Home() {
           <Image 
             src="/icon.png" 
             alt="Seedr.fun" 
-            width={44}
-            height={44}
+            width={217.99}
+            height={44.32}
             className="h-11 mx-auto mb-4"
           />
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
