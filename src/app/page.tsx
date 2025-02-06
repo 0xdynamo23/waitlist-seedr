@@ -27,7 +27,7 @@ export default function Home() {
             alt="Seedr.fun" 
             width={217.99}
             height={44.32}
-            className="h-11 mx-auto mb-4"
+            className="h-11 mx-auto mb-4 z-1"
           />
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
             <span className="block md:inline">Support builders</span> <span className="block md:inline">you trust</span>
