@@ -39,7 +39,7 @@ export default function WaitlistForm() {
     return (
       <div className="bg-white p-6 rounded-lg shadow-md w-full mx-auto text-center">
         <p className="text-gray-700 text-lg">
-          Thank you for registering! Join our <a href="/https://discord.gg/seedr" className="text-green-500 font-medium hover:text-green-600 transition-colors" target="_blank" rel="noopener noreferrer">discord</a> to be notified
+          Thank you for registering! Join our <a href="https://discord.gg/seedr" className="text-green-500 font-medium hover:text-green-600 transition-colors" target="_blank" rel="noopener noreferrer">discord</a> to be notified
         </p>
       </div>
     );
