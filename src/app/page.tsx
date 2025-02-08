@@ -40,7 +40,7 @@ export default function Home() {
         <WaitlistForm />
         <div className="text-sm text-gray-500 pt-12">
           Join our{' '}
-          <a href="https://discord.gg/xAMkMV5PMU" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700 underline">
+          <a href="hhttps://discord.gg/seedr" target="_blank" rel="noopener noreferrer" className="font-bold text-gray-700 underline">
             <Image src="/Discord.png" alt="Discord" width={21} height={16} className="h-4 inline-block mx-1" /> Discord
           </a>{' '}
           and stay connected.
